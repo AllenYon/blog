@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 24Face
+subtitle: 踏遍黄沙海洋
 description:
-author: John Doe
+author: A-Lin
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://24face.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
